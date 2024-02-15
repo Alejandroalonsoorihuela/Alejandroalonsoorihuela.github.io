@@ -1,5 +1,5 @@
 #theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "riggraz/no-style-please"
 
 minimal_mistakes_skin: "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -7,6 +7,8 @@ plugins:
   - jekyll-remote-theme 
   - jekyll-include-cache # add this line to the plugins list if you already have one
   - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
 
 title: hola ASIR2
 
@@ -42,5 +44,5 @@ paginate_path: /blog/page:num/
 minima:
   skin: dark
 
-name: oscar novillo
+name: Alejandro Alonso
   
