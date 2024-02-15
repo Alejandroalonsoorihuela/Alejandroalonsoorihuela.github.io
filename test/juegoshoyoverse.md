@@ -1,5 +1,5 @@
 ---
-title: test
+title: Juegos
 
 ---
 <h1>  Juegos de hoyoverse </h1>
@@ -9,3 +9,4 @@ title: test
     <li>Honkai Star rail</li>
     <li>Zenless zone zero</li>
 </ul>
+![hoyoversegames](../images/Hoyoversegames.jpg)
