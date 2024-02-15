@@ -12,3 +12,7 @@ gallery:
     alt: "placeholder image 3"
     title: "Honkai Star rail"
 ---
+![Honkai Impact](/assets/img/Honkai3rd.jpg)
+![Genshin Impact](/assets/img/genshin.jpg)
+![Honkai Star Rail](/assets/img/starrail.jpg)
+
