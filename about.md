@@ -1,16 +1,10 @@
 ---
 title: about
-permalink: /juju
+permalink: /quees
 
-date: 2024-10-10
-author: juan
-tags: juegos,mierda
+date: 2024-02-15
+author: Alejandro
 
 ---
 
-# TITULO
-
-Contenido del about
-
-hola danielo
-
+# Genshin Impact es un juego gacha creado por Hoyoverse

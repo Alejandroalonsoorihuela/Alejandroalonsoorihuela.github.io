@@ -9,5 +9,4 @@ title: Juegos
     <li>Honkai Star rail</li>
     <li>Zenless zone zero</li>
 </ul>
-![hoyoversegames](../images/Hoyoversegames.jpg)
-[Link](../ "Volver a la página principal").
+![hoyoversegames](../assets/img/Hoyoversegames.jpg)

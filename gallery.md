@@ -2,16 +2,13 @@
 
 title: "Gallery"
 gallery:
-  - url: https://loremflickr.com/320/240
-    image_path: https://loremflickr.com/320/240?random=1
-    alt: "placeholder image 1"
+  - url: assets\img\Honkai3rd.jpg
+    alt: "Honkai Impact"
     title: "Image 1 title caption"
-  - url: https://loremflickr.com/320/240
-    image_path: https://loremflickr.com/320/240?random=2
-    alt: "placeholder image 2"
+  - url: assets\img\genshin.jpg
+    alt: "Genshin Impact"
     title: "Image 2 title caption"
-  - url: https://loremflickr.com/320/240
-    image_path: https://loremflickr.com/320/240?random=3
+  - url: assets\img\starrail.jpg
     alt: "placeholder image 3"
-    title: "Image 3 title caption"
+    title: "Honkai Star rail"
 ---
