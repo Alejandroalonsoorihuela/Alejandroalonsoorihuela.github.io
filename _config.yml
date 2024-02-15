@@ -1,48 +1,30 @@
+
+
+title: no style, please! # name of the site
+author: Riccardo Graziosi # name of site's author
+email: riccardo.graziosi97@gmail.com # email of site's author
+url: https://riggraz.dev # root address of the site
+baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+description: > # description of the site (multiple lines allowed)
+  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+
+permalink: /:slug.html
+
+favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
+# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
+
 #theme: minimal-mistakes-jekyll
 remote_theme: "riggraz/no-style-please"
 
-minimal_mistakes_skin: "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
+
+sass:
+  style: :compressed
 
 plugins:
-  - jekyll-remote-theme 
-  - jekyll-include-cache # add this line to the plugins list if you already have one
-  - jekyll-paginate
   - jekyll-feed
   - jekyll-seo-tag
-
-title: hola ASIR2
-
-defaults:
-  - scope:
-      path: "assets/img"
-    values:
-      image: true
-    # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-
-collections:
-  members:
-    output: true
-
-
-
-# número de posts por página
-paginate: 2
-paginate_path: /blog/page:num/
-
-
-
-minima:
-  skin: dark
-
-name: Alejandro Alonso
-  
