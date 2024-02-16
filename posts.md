@@ -1,5 +1,5 @@
 ---
-title: "Posts by Category"
-permalink: /posts/
+title: "Posts de elementos"
+permalink: /posts
 author_profile: true
 ---
