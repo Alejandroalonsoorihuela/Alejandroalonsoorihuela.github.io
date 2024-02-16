@@ -1,10 +1,6 @@
 ---
 ---
 
-@import
-  "minima/skins/{{ site.minima.skin | default: 'dark' }}",
-  "minima/initialize";
-
 body {
 
     background: rgb(112, 106, 106) ;
@@ -20,4 +16,3 @@ body {
     font-family: 'Times New Roman', Times, serif;
 
 }
-
