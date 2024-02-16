@@ -27,7 +27,7 @@ permalink: /
 Hoyoverse es una empresa china que ha desarrollado diversos juegos, puedes ver imagenes de los mismos en el apartado de Juegos
 
 
-[Link](https://www.hoyoverse.com/es-es/) and ![Image]({{ site.url }}/assets/img/HoYoverse-Logo.png)
+[Link](https://www.hoyoverse.com/es-es/)![Image]({{ site.url }}/assets/img/HoYoverse-Logo.png)
 
 
 
